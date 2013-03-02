@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"sublime-settings",
+		"sublime-settings",
+		"sublime_session"
+	],
+	"tab_size": 4
+}

@@ -1,0 +1,9 @@
+{
+    "extensions":
+    [
+        "html",
+        "handlebars",
+        "tmpl"
+    ],
+    "tab_size": 4
+}

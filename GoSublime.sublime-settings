@@ -1,0 +1,8 @@
+{
+    "env": {
+        "GOPATH": "$HOME/projects:$GS_GOPATH"
+    },
+    "autocomplete_builtins": true,
+    "autocomplete_closures": true,
+    "autocomplete_suggest_imports": false
+}
