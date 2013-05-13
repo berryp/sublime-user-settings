@@ -1,0 +1,22 @@
+{
+	"breaks":
+	{
+		"/Users/berryp/temp/wi.html":
+		{
+		},
+		"/Users/berryp/temp/wi.js":
+		{
+			"6":
+			{
+				"status": "disabled"
+			}
+		},
+		"/Users/berryp/work/panelcare3/app/js/controllers/main.js":
+		{
+			"5":
+			{
+				"status": "disabled"
+			}
+		}
+	}
+}

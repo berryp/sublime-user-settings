@@ -3,7 +3,8 @@
 	[
 		"sublime-settings",
 		"sublime-settings",
-		"sublime_session"
+		"sublime_session",
+        "json"
 	],
 	"tab_size": 4
 }

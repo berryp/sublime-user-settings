@@ -8,7 +8,7 @@
     { "keys": ["ctrl+super+u"], "command": "uncommitted_files" },
 
     { "keys": ["ctrl+shift+pageup"], "command": "jump_between_changes", "args": {"direction": "prev"} },
-    { "keys": ["ctrl+shift+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} }
+    { "keys": ["ctrl+shift+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} },
 
-
+    { "keys": ["ctrl+s"], "command": "toggle_side_bar" }
 ]

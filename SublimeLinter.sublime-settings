@@ -7,10 +7,21 @@
         "wsh": true,
         "trailing": true,
         "sub": true,
+        "globalstrict": true,
         "globals": {
             "__dirname": false,
             "jQuery": false,
-            "$": false
+            "$": false,
+            "angular": false
         }
-    }
+    },
+    "pep8_ignore":
+    [
+        "E126",
+        "E127",
+        "E128"
+    ],
+    "sublimelinter_gutter_marks_theme": "hard",
+    "sublimelinter_notes": true,
+    "annotations": ["TODO", "README", "FIXME", "HACK"]
 }

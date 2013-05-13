@@ -6,15 +6,20 @@
 		"ADBView",
 		"All Autocomplete",
 		"AngularJS",
+		"ApplySyntax",
+		"Arduino",
 		"Backbone.js",
+		"BeautifyRuby",
+		"Boron Color Scheme",
+		"Color Highlighter",
 		"CTags",
+		"DashDoc",
 		"EditorConfig",
-		"fish-shell",
+		"Emmet",
 		"Function Name Display",
 		"gettext.tmbundle",
 		"Gist",
-		"Go Build",
-		"GoSublime",
+		"Git",
 		"Handlebars",
 		"HexViewer",
 		"HTML5",
@@ -34,12 +39,15 @@
 		"SASS Build",
 		"SFTP",
 		"SideBarEnhancements",
+		"sublime-github",
 		"SublimeLinter",
 		"SublimeQSL",
 		"SublimeTODO",
+		"Theme - Flatland",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
 		"Twitter Bootstrap Snippets",
+		"Web Inspector",
 		"ZenCoding"
 	],
 	"repositories":
@@ -50,6 +58,7 @@
 	"repository_channels":
 	[
 		"https://sublime.wbond.net/repositories.json",
+		"https://raw.github.com/berryp/sublime_package_control_channel/master/repositories.json",
 		"https://raw.github.com/berryp/sublime_package_control_channel/master/repositories.json"
 	]
 }
